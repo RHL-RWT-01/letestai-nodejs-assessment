@@ -1,0 +1,82 @@
+[
+  {
+    "id": "book-001",
+    "title": "The Mango Tree",
+    "author": "R. K. Narayan",
+    "genre": "Fiction",
+    "publishedYear": 1965,
+    "userId": "user-1719990000001"
+  },
+  {
+    "id": "book-002",
+    "title": "Wings of Fire",
+    "author": "A. P. J. Abdul Kalam",
+    "genre": "Autobiography",
+    "publishedYear": 1999,
+    "userId": "user-1719990000002"
+  },
+  {
+    "id": "book-003",
+    "title": "Train to Pakistan",
+    "author": "Khushwant Singh",
+    "genre": "Historical",
+    "publishedYear": 1956,
+    "userId": "user-1719990000003"
+  },
+  {
+    "id": "book-004",
+    "title": "The Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "genre": "Mythology",
+    "publishedYear": 2008,
+    "userId": "user-1719990000002"
+  },
+  {
+    "id": "book-005",
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "genre": "Fiction",
+    "publishedYear": 1981,
+    "userId": "user-1719990000001"
+  },
+  {
+    "id": "book-6f1a0a43-0d76-4b07-b34a-085988522868",
+    "title": "abc",
+    "author": "Rahul",
+    "genre": "fiction",
+    "publishedYear": "2025",
+    "userId": "user-1997d2ad-3160-4303-9094-8dd7c24ece1b"
+  },
+  {
+    "id": "book-09d3e3e8-a122-4f2d-afe4-243e485e73a3",
+    "title": "abc",
+    "author": "Rahul",
+    "genre": "fiction",
+    "publishedYear": "2025",
+    "userId": "user-1997d2ad-3160-4303-9094-8dd7c24ece1b"
+  },
+  {
+    "id": "book-84a1fac6-01df-4297-9988-20e8c7507669",
+    "title": "abc",
+    "author": "Rahul",
+    "genre": "fiction",
+    "publishedYear": "2025",
+    "userId": "user-1997d2ad-3160-4303-9094-8dd7c24ece1b"
+  },
+  {
+    "id": "book-3c8d3744-6679-42c2-b39a-cd5c6071978a",
+    "title": "abc",
+    "author": "Rahul",
+    "genre": "fiction",
+    "publishedYear": "2025",
+    "userId": "user-1997d2ad-3160-4303-9094-8dd7c24ece1b"
+  },
+  {
+    "id": "book-dd88d12e-dfed-42bd-a821-76fcd67493b0",
+    "title": "hi",
+    "author": "string",
+    "genre": "string",
+    "publishedYear": 2025,
+    "userId": "user-66c58dc7-1848-4c82-b57b-ac3a099b58cb"
+  }
+]

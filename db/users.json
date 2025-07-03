@@ -1,0 +1,30 @@
+[
+  {
+    "id": "user-1719990000001",
+    "email": "rahulrawat4060@gmail.com",
+    "password": "$2a$10$abcdefg1234567890hashedpass",
+    "name": "Rahul Rawat"
+  },
+  {
+    "id": "user-1719990000002",
+    "email": "priya.verma@gmail.com",
+    "password": "$2a$10$1234567890abcdefghhashedpass",
+    "name": "Priya Verma"
+  },
+  {
+    "id": "user-1719990000003",
+    "email": "arjun.mehra@gmail.com",
+    "password": "$2a$10$zyxwvutsrqp098765hashedpass",
+    "name": "Arjun Mehra"
+  },
+  {
+    "id": "user-1997d2ad-3160-4303-9094-8dd7c24ece1b",
+    "email": "rahul@gmail.com",
+    "password": "$2b$10$C41tEBnzankmrqsgjzNLs.EyqXO7gntlySlqt8hLtaVutlpdIwx4K"
+  },
+  {
+    "id": "user-66c58dc7-1848-4c82-b57b-ac3a099b58cb",
+    "email": "user@example.com",
+    "password": "$2b$10$Xb6sWf1quYHijCWvyvu/UOOC4wKC9jQ85UisEsnV.keG3XTVOFFYW"
+  }
+]
